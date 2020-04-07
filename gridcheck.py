@@ -3,6 +3,7 @@
 # grid_check.py: Check that the holes specified in an Excellon drill file
 # are on a grid, excluding vias
 # Copyright 2020 Eric Smith
+# SPDX-License-Identifier: GPL-3.0-only
 
 #-----------------------------------------------------------------------------
 # This program is free software: you can redistribute it and/or modify
